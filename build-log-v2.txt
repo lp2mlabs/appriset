@@ -1,0 +1,83 @@
+2029 INFO: PyInstaller: 6.22.3, contrib hooks: 2026.9
+2029 INFO: Python: 3.12.14
+2690 INFO: Platform: Windows-11-10.0.26200-SP0
+2690 INFO: Python environment: C:\Users\moeha\OneDrive\Dokumen\New project 4\WebImage-Studio\.venv
+2819 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio',
+ 'C:\\Users\\moeha\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python312.zip',
+ 'C:\\Users\\moeha\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\DLLs',
+ 'C:\\Users\\moeha\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\Lib',
+ 'C:\\Users\\moeha\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python',
+ 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv',
+ 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project '
+ '4\\WebImage-Studio\\.venv\\Lib\\site-packages',
+ 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio']
+5150 INFO: Appending 'datas' from .spec
+5182 INFO: checking Analysis
+5266 INFO: Building because excludes changed
+5266 INFO: Looking for Python shared library...
+5266 INFO: Using Python shared library: C:\Users\moeha\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python312.dll
+5266 INFO: Running Analysis Analysis-00.toc
+5266 INFO: Target bytecode optimization level: 0
+5266 INFO: Initializing module dependency graph...
+5311 INFO: Initializing module graph hook caches...
+5597 INFO: Analyzing modules for base_library.zip ...
+14957 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+17842 INFO: Processing standard module hook 'hook-math.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+25981 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+34898 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+42996 INFO: Caching module dependency graph...
+43250 INFO: Analyzing C:\Users\moeha\OneDrive\Dokumen\New project 4\WebImage-Studio\app.py
+43614 INFO: Processing standard module hook 'hook-PIL.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+44537 INFO: Processing standard module hook 'hook-PIL.Image.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+47488 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+47840 INFO: Processing standard module hook 'hook-xml.etree.cElementTree.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+49141 INFO: Processing standard module hook 'hook-PIL.ImageFilter.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+51176 INFO: Processing standard module hook 'hook-PySide6.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+52258 INFO: Processing standard module hook 'hook-shiboken6.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+55168 INFO: Processing standard module hook 'hook-PySide6.QtCore.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+67370 INFO: Processing standard module hook 'hook-PySide6.QtGui.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+126430 INFO: Processing standard module hook 'hook-PySide6.QtWidgets.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+137454 INFO: Analyzing hidden import 'PIL.AvifImagePlugin'
+137549 INFO: Analyzing hidden import 'PIL.WebPImagePlugin'
+137628 INFO: Processing module hooks (post-graph stage)...
+139999 INFO: Processing standard module hook 'hook-PIL.SpiderImagePlugin.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+142332 INFO: Performing binary vs. data reclassification (124 entries)
+145508 INFO: Looking for ctypes DLLs
+145528 INFO: Analyzing run-time hooks ...
+145533 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+145588 INFO: Including run-time hook 'pyi_rth_pyside6.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+145633 INFO: Processing pre-find-module-path hook 'hook-_pyi_rth_utils.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+145689 INFO: Processing standard module hook 'hook-_pyi_rth_utils.py' from 'C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PyInstaller\\hooks'
+145806 INFO: Creating base_library.zip...
+145916 INFO: Looking for dynamic libraries
+146781 INFO: Extra DLL search directories (AddDllDirectory): ['C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\shiboken6']
+146781 INFO: Extra DLL search directories (PATH): ['C:\\Users\\moeha\\OneDrive\\Dokumen\\New project 4\\WebImage-Studio\\.venv\\Lib\\site-packages\\PySide6']
+153023 INFO: Warnings written to C:\Users\moeha\OneDrive\Dokumen\New project 4\WebImage-Studio\build\WebImage Studio\warn-WebImage Studio.txt
+153174 INFO: Graph cross-reference written to C:\Users\moeha\OneDrive\Dokumen\New project 4\WebImage-Studio\build\WebImage Studio\xref-WebImage Studio.html
+153468 INFO: checking PYZ
+153706 INFO: Building because C:\Users\moeha\OneDrive\Dokumen\New project 4\WebImage-Studio\engine.py changed
+153706 INFO: Building PYZ (ZlibArchive) C:\Users\moeha\OneDrive\Dokumen\New project 4\WebImage-Studio\build\WebImage Studio\PYZ-00.pyz
+154683 INFO: Building PYZ (ZlibArchive) C:\Users\moeha\OneDrive\Dokumen\New project 4\WebImage-Studio\build\WebImage Studio\PYZ-00.pyz completed successfully.
+154760 INFO: checking PKG
+154829 INFO: Building because toc changed
+154829 INFO: Building PKG (CArchive) WebImage Studio.pkg
+194625 INFO: Building PKG (CArchive) WebImage Studio.pkg completed successfully.
+194646 INFO: Bootloader C:\Users\moeha\OneDrive\Dokumen\New project 4\WebImage-Studio\.venv\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+194646 INFO: checking EXE
+194693 INFO: Building because toc changed
+194693 INFO: Building EXE from EXE-00.toc
+194712 INFO: Copying bootloader EXE to C:\Users\moeha\OneDrive\Dokumen\New project 4\WebImage-Studio\release\WebImage Studio.exe
+195075 INFO: Copying icon to EXE
+195215 INFO: Copying 0 resources to EXE
+195215 INFO: Embedding manifest in EXE
+195369 INFO: Appending PKG archive to EXE
+195641 INFO: Fixing EXE headers
+196833 INFO: Building EXE from EXE-00.toc completed successfully.
+196850 INFO: Build complete! The results are available in: C:\Users\moeha\OneDrive\Dokumen\New project 4\WebImage-Studio\release
+
+FullName                                                                                    Length
+--------                                                                                    ------
+C:\Users\moeha\OneDrive\Dokumen\New project 4\WebImage-Studio\release\WebImage Studio.exe 44765846
+
+
